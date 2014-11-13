@@ -1,4 +1,11 @@
 .h1Class{
-	height:10px;
 	color:red;
+}
+
+.greenClass{
+	background-color:green;
+}
+
+p{
+	background-color:red;
 }
